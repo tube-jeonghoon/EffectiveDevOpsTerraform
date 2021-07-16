@@ -1,1 +1,1 @@
-# EffectiveDevOpsTerraform
+# effective-devops-terraform
